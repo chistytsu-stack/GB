@@ -31,35 +31,35 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61579342122560",
+    "100023789902793",
     "100070686408141"
   ],
   "mainAdmin": [
-    "61579342122560"
+    "100023789902793"
   ],
 	"vipUser": [
-    "61579342122560",
+    "100023789902793",
 	  "100070686408141"
     ],
 	"GOD": [
-                "61579342122560",
+                "100023789902793",
                 "100070686408141"
         ],
 	"DEV": [
-    "61579342122560",
+    "100023789902793",
     "100070686408141"
         ],
 	"orgDEV": [
-    "61579342122560",
+    "100023789902793",
     "100070686408141"
         ],
   "nisanBot": [
-		"28297135763266706"
+		""
 	],
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "61579342122560",
+      "100023789902793",
       "100070686408141"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
@@ -67,7 +67,7 @@
   "whiteListModeThread": {
     "enable": true,
     "whiteListThreadIds": [
-      "28297135763266706"
+      ""
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
